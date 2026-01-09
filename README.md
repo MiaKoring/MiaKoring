@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MiaKoring
-- 👀 I’m interested in APIs, Swift and Cyber Security
-- 🌱 I’m currently developing a Swift App
+- 👀 I’m interested Swift and Cyber Security, specifically data security
 - 📫 How to reach me koring.mia@gmail.com
 
 <!---
