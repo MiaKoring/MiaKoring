@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiaKoring
 - 👀 I’m interested Swift and Cyber Security, specifically data security
-- 📫 How to reach me koring.mia@gmail.com
+- 📫 How to reach me mia.koring@amethystsoft.de
 
 <!---
 MiaKoring/MiaKoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
