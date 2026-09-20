@@ -11,7 +11,7 @@ My focus is on breaking Swift out of Apple’s walled garden by building the fou
 - **[KeyringAccess](https://amethystsoft/keyringaccess.git):** KeychainAccess-like secure credential management for linux via the SecretService API.
 
 #### Ecosystem Contributions
-- **[SwiftCrossUI](https://github.com/moreSwift/swift-cross-ui.git):** Core contributor to the primary, declarative, cross-platform UI framework for Swift.
+- **[SwiftCrossUI](https://github.com/moreSwift/swift-cross-ui.git):** Core team member of the primary, declarative, cross-platform UI framework for Swift.
 
 ---
 
