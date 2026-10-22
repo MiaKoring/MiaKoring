@@ -16,7 +16,7 @@ My focus is on breaking Swift out of Apple’s walled garden by building the fou
 ---
 
 ### What I’m building next
-I am currently shipping **Vein 1.1** and soon starting to work on architecting a **cross-platform, end-to-end encrypted data synchronization engine** for Vein. If you or your team need seamless, secure data syncing across operating systems in Swift, let’s connect.
+I am currently shipping **Vein 1.2** and soon starting to work on architecting a **cross-platform, end-to-end encrypted data synchronization engine** for Vein. If you or your team need seamless, secure data syncing across operating systems in Swift, let’s connect.
 
 ---
 
